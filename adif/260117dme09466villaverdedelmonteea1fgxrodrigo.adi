@@ -1,6 +1,11 @@
 ADIF creado por WinURECon 4.20 (Windows 64 bits)
 Log de EA1FGX exportado el 17/01/2026 17:38:00
 Concurso: Expedición
+
+<APP_ACTIVADOR:5>EA1FGX
+<APP_DME:5>09466
+<APP_MUNICIPIO:6>Villaverde del monte
+
 <EOH>
 
 <CALL:6>EA7BNL<QSO_DATE:8>20260117<TIME_ON:4>1504<BAND:3>40m<CONTEST_ID:10>Expedición<MODE:3>SSB<RST_SENT:2>59<RST_RCVD:2>59<EOR>
