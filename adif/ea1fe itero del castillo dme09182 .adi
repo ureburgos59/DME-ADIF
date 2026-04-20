@@ -5,8 +5,10 @@ Exportación a ADIF por RadioGes Versión 4.0 Plus-RgDxNet
 <ADDRESS:15>BURGOS, (SPAIN)
 
 <APP_ACTIVADOR:5>EA1FE
-<APP_DME:5>09182 + RBU-1092
+<APP_DME:5>09182
 <APP_MUNICIPIO:6>Itero del Castillo
+<APP_DEE:6>
+<APP_DERESP:6>RBU-1092 
 
 
 <EOH>
