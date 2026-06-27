@@ -1,0 +1,2228 @@
+{
+  "09001": {
+    "provincia": "Burgos",
+    "municipio": "Abajas",
+    "lat": 42.62347,
+    "lon": -3.580227
+  },
+  "09003": {
+    "provincia": "Burgos",
+    "municipio": "Adrada de Haza",
+    "lat": 41.59426,
+    "lon": -3.821794
+  },
+  "09006": {
+    "provincia": "Burgos",
+    "municipio": "Aguas Cándidas",
+    "lat": 42.71609,
+    "lon": -3.501816
+  },
+  "09007": {
+    "provincia": "Burgos",
+    "municipio": "Aguilar de Bureba",
+    "lat": 42.59014,
+    "lon": -3.328738
+  },
+  "09009": {
+    "provincia": "Burgos",
+    "municipio": "Albillos",
+    "lat": 42.27642,
+    "lon": -3.790607
+  },
+  "09010": {
+    "provincia": "Burgos",
+    "municipio": "Alcocero de Mola",
+    "lat": 42.47314,
+    "lon": -3.357422
+  },
+  "09011": {
+    "provincia": "Burgos",
+    "municipio": "Alfoz de Bricia",
+    "lat": 42.89667,
+    "lon": -3.879167
+  },
+  "09012": {
+    "provincia": "Burgos",
+    "municipio": "Alfoz de Santa Gadea",
+    "lat": 42.95555,
+    "lon": -3.950556
+  },
+  "09013": {
+    "provincia": "Burgos",
+    "municipio": "Altable",
+    "lat": 42.60335,
+    "lon": -3.077159
+  },
+  "09014": {
+    "provincia": "Burgos",
+    "municipio": "Altos (Los)",
+    "lat": 42.80861,
+    "lon": -3.631667
+  },
+  "09016": {
+    "provincia": "Burgos",
+    "municipio": "Ameyugo",
+    "lat": 42.65606,
+    "lon": -3.061546
+  },
+  "09017": {
+    "provincia": "Burgos",
+    "municipio": "Anguix",
+    "lat": 41.75338,
+    "lon": -3.931955
+  },
+  "09018": {
+    "provincia": "Burgos",
+    "municipio": "Aranda de Duero",
+    "lat": 41.67171,
+    "lon": -3.686569
+  },
+  "09019": {
+    "provincia": "Burgos",
+    "municipio": "Arandilla",
+    "lat": 41.73776,
+    "lon": -3.428753
+  },
+  "09020": {
+    "provincia": "Burgos",
+    "municipio": "Arauzo de Miel",
+    "lat": 41.86012,
+    "lon": -3.38779
+  },
+  "09021": {
+    "provincia": "Burgos",
+    "municipio": "Arauzo de Salce",
+    "lat": 41.81974,
+    "lon": -3.412258
+  },
+  "09022": {
+    "provincia": "Burgos",
+    "municipio": "Arauzo de Torre",
+    "lat": 41.79853,
+    "lon": -3.422723
+  },
+  "09023": {
+    "provincia": "Burgos",
+    "municipio": "Arcos",
+    "lat": 42.26453,
+    "lon": -3.755465
+  },
+  "09024": {
+    "provincia": "Burgos",
+    "municipio": "Arenillas de Riopisuerga",
+    "lat": 42.35673,
+    "lon": -4.233235
+  },
+  "09025": {
+    "provincia": "Burgos",
+    "municipio": "Arija",
+    "lat": 42.99424,
+    "lon": -3.944695
+  },
+  "09026": {
+    "provincia": "Burgos",
+    "municipio": "Arlanzón",
+    "lat": 42.3228,
+    "lon": -3.458243
+  },
+  "09027": {
+    "provincia": "Burgos",
+    "municipio": "Arraya de Oca",
+    "lat": 42.41536,
+    "lon": -3.397841
+  },
+  "09029": {
+    "provincia": "Burgos",
+    "municipio": "Atapuerca",
+    "lat": 42.37701,
+    "lon": -3.507772
+  },
+  "09030": {
+    "provincia": "Burgos",
+    "municipio": "Ausines (Los)",
+    "lat": 42.22558,
+    "lon": -3.597602
+  },
+  "09032": {
+    "provincia": "Burgos",
+    "municipio": "Avellanosa de Muñó",
+    "lat": 41.98373,
+    "lon": -3.824701
+  },
+  "09033": {
+    "provincia": "Burgos",
+    "municipio": "Bahabón de Esgueva",
+    "lat": 41.86199,
+    "lon": -3.729234
+  },
+  "09034": {
+    "provincia": "Burgos",
+    "municipio": "Balbases (Los)",
+    "lat": 42.215,
+    "lon": -4.062593
+  },
+  "09035": {
+    "provincia": "Burgos",
+    "municipio": "Baños de Valdearados",
+    "lat": 41.76987,
+    "lon": -3.556313
+  },
+  "09036": {
+    "provincia": "Burgos",
+    "municipio": "Bañuelos de Bureba",
+    "lat": 42.50111,
+    "lon": -3.280796
+  },
+  "09037": {
+    "provincia": "Burgos",
+    "municipio": "Barbadillo de Herreros",
+    "lat": 42.21489,
+    "lon": -3.150055
+  },
+  "09038": {
+    "provincia": "Burgos",
+    "municipio": "Barbadillo del Mercado",
+    "lat": 42.03931,
+    "lon": -3.358344
+  },
+  "09039": {
+    "provincia": "Burgos",
+    "municipio": "Barbadillo del Pez",
+    "lat": 42.11964,
+    "lon": -3.228537
+  },
+  "09041": {
+    "provincia": "Burgos",
+    "municipio": "Barrio de Muñó",
+    "lat": 42.17502,
+    "lon": -4.007208
+  },
+  "09043": {
+    "provincia": "Burgos",
+    "municipio": "Barrios de Bureba (Los)",
+    "lat": 42.64565,
+    "lon": -3.391559
+  },
+  "09044": {
+    "provincia": "Burgos",
+    "municipio": "Barrios de Colina",
+    "lat": 42.39611,
+    "lon": -3.459788
+  },
+  "09045": {
+    "provincia": "Burgos",
+    "municipio": "Basconcillos del Tozo",
+    "lat": 42.70267,
+    "lon": -3.989552
+  },
+  "09046": {
+    "provincia": "Burgos",
+    "municipio": "Bascuñana",
+    "lat": 42.42544,
+    "lon": -3.082017
+  },
+  "09047": {
+    "provincia": "Burgos",
+    "municipio": "Belbimbre",
+    "lat": 42.16871,
+    "lon": -4.012369
+  },
+  "09048": {
+    "provincia": "Burgos",
+    "municipio": "Belorado",
+    "lat": 42.42041,
+    "lon": -3.189796
+  },
+  "09050": {
+    "provincia": "Burgos",
+    "municipio": "Berberana",
+    "lat": 42.91988,
+    "lon": -3.060073
+  },
+  "09051": {
+    "provincia": "Burgos",
+    "municipio": "Berlangas de Roa",
+    "lat": 41.6894,
+    "lon": -3.87417
+  },
+  "09052": {
+    "provincia": "Burgos",
+    "municipio": "Berzosa de Bureba",
+    "lat": 42.62693,
+    "lon": -3.266128
+  },
+  "09054": {
+    "provincia": "Burgos",
+    "municipio": "Bozoó",
+    "lat": 42.72657,
+    "lon": -3.08537
+  },
+  "09055": {
+    "provincia": "Burgos",
+    "municipio": "Brazacorta",
+    "lat": 41.71716,
+    "lon": -3.367153
+  },
+  "09056": {
+    "provincia": "Burgos",
+    "municipio": "Briviesca",
+    "lat": 42.55029,
+    "lon": -3.323369
+  },
+  "09057": {
+    "provincia": "Burgos",
+    "municipio": "Bugedo",
+    "lat": 42.64932,
+    "lon": -3.017947
+  },
+  "09058": {
+    "provincia": "Burgos",
+    "municipio": "Buniel",
+    "lat": 42.30971,
+    "lon": -3.823738
+  },
+  "09059": {
+    "provincia": "Burgos",
+    "municipio": "Burgos",
+    "lat": 42.34087,
+    "lon": -3.699731
+  },
+  "09060": {
+    "provincia": "Burgos",
+    "municipio": "Busto de Bureba",
+    "lat": 42.65941,
+    "lon": -3.264715
+  },
+  "09061": {
+    "provincia": "Burgos",
+    "municipio": "Cabañes de Esgueva",
+    "lat": 41.8313,
+    "lon": -3.785393
+  },
+  "09062": {
+    "provincia": "Burgos",
+    "municipio": "Cabezón de la Sierra",
+    "lat": 41.93455,
+    "lon": -3.242159
+  },
+  "09063": {
+    "provincia": "Burgos",
+    "municipio": "Cavia",
+    "lat": 42.28385,
+    "lon": -3.845257
+  },
+  "09064": {
+    "provincia": "Burgos",
+    "municipio": "Caleruega",
+    "lat": 41.82503,
+    "lon": -3.486718
+  },
+  "09065": {
+    "provincia": "Burgos",
+    "municipio": "Campillo de Aranda",
+    "lat": 41.61026,
+    "lon": -3.730296
+  },
+  "09066": {
+    "provincia": "Burgos",
+    "municipio": "Campolara",
+    "lat": 42.11951,
+    "lon": -3.427225
+  },
+  "09067": {
+    "provincia": "Burgos",
+    "municipio": "Canicosa de la Sierra",
+    "lat": 41.93606,
+    "lon": -3.042048
+  },
+  "09068": {
+    "provincia": "Burgos",
+    "municipio": "Cantabrana",
+    "lat": 42.73465,
+    "lon": -3.4672
+  },
+  "09070": {
+    "provincia": "Burgos",
+    "municipio": "Carazo",
+    "lat": 41.96952,
+    "lon": -3.353925
+  },
+  "09071": {
+    "provincia": "Burgos",
+    "municipio": "Carcedo de Bureba",
+    "lat": 42.5783,
+    "lon": -3.498399
+  },
+  "09072": {
+    "provincia": "Burgos",
+    "municipio": "Carcedo de Burgos",
+    "lat": 42.2861,
+    "lon": -3.623026
+  },
+  "09073": {
+    "provincia": "Burgos",
+    "municipio": "Cardeñadijo",
+    "lat": 42.2997,
+    "lon": -3.665262
+  },
+  "09074": {
+    "provincia": "Burgos",
+    "municipio": "Cardeñajimeno",
+    "lat": 42.33102,
+    "lon": -3.621846
+  },
+  "09075": {
+    "provincia": "Burgos",
+    "municipio": "Cardeñuela Riopico",
+    "lat": 42.35997,
+    "lon": -3.55778
+  },
+  "09076": {
+    "provincia": "Burgos",
+    "municipio": "Carrias",
+    "lat": 42.4817,
+    "lon": -3.283208
+  },
+  "09077": {
+    "provincia": "Burgos",
+    "municipio": "Cascajares de Bureba",
+    "lat": 42.67904,
+    "lon": -3.237395
+  },
+  "09078": {
+    "provincia": "Burgos",
+    "municipio": "Cascajares de la Sierra",
+    "lat": 42.06187,
+    "lon": -3.39957
+  },
+  "09079": {
+    "provincia": "Burgos",
+    "municipio": "Castellanos de Castro",
+    "lat": 42.32857,
+    "lon": -4.03372
+  },
+  "09082": {
+    "provincia": "Burgos",
+    "municipio": "Castildelgado",
+    "lat": 42.43724,
+    "lon": -3.084511
+  },
+  "09083": {
+    "provincia": "Burgos",
+    "municipio": "Castil de Peones",
+    "lat": 42.48307,
+    "lon": -3.38459
+  },
+  "09084": {
+    "provincia": "Burgos",
+    "municipio": "Castrillo de la Reina",
+    "lat": 41.98731,
+    "lon": -3.237118
+  },
+  "09085": {
+    "provincia": "Burgos",
+    "municipio": "Castrillo de la Vega",
+    "lat": 41.65073,
+    "lon": -3.781646
+  },
+  "09086": {
+    "provincia": "Burgos",
+    "municipio": "Castrillo del Val",
+    "lat": 42.31421,
+    "lon": -3.584872
+  },
+  "09088": {
+    "provincia": "Burgos",
+    "municipio": "Castrillo de Riopisuerga",
+    "lat": 42.51493,
+    "lon": -4.252292
+  },
+  "09090": {
+    "provincia": "Burgos",
+    "municipio": "Castrillo Mota de Judíos",
+    "lat": 42.31054,
+    "lon": -4.173882
+  },
+  "09091": {
+    "provincia": "Burgos",
+    "municipio": "Castrojeriz",
+    "lat": 42.28828,
+    "lon": -4.138836
+  },
+  "09093": {
+    "provincia": "Burgos",
+    "municipio": "Cayuela",
+    "lat": 42.27256,
+    "lon": -3.819528
+  },
+  "09094": {
+    "provincia": "Burgos",
+    "municipio": "Cebrecos",
+    "lat": 41.9832,
+    "lon": -3.596634
+  },
+  "09095": {
+    "provincia": "Burgos",
+    "municipio": "Celada del Camino",
+    "lat": 42.26265,
+    "lon": -3.933845
+  },
+  "09098": {
+    "provincia": "Burgos",
+    "municipio": "Cerezo de Río Tirón",
+    "lat": 42.49125,
+    "lon": -3.135633
+  },
+  "09100": {
+    "provincia": "Burgos",
+    "municipio": "Cerratón de Juarros",
+    "lat": 42.42218,
+    "lon": -3.373947
+  },
+  "09101": {
+    "provincia": "Burgos",
+    "municipio": "Ciadoncha",
+    "lat": 42.1606,
+    "lon": -3.9348
+  },
+  "09102": {
+    "provincia": "Burgos",
+    "municipio": "Cillaperlata",
+    "lat": 42.78268,
+    "lon": -3.358483
+  },
+  "09103": {
+    "provincia": "Burgos",
+    "municipio": "Cilleruelo de Abajo",
+    "lat": 41.88422,
+    "lon": -3.795598
+  },
+  "09104": {
+    "provincia": "Burgos",
+    "municipio": "Cilleruelo de Arriba",
+    "lat": 41.90474,
+    "lon": -3.660519
+  },
+  "09105": {
+    "provincia": "Burgos",
+    "municipio": "Ciruelos de Cervera",
+    "lat": 41.90557,
+    "lon": -3.530057
+  },
+  "09108": {
+    "provincia": "Burgos",
+    "municipio": "Cogollos",
+    "lat": 42.20072,
+    "lon": -3.699386
+  },
+  "09109": {
+    "provincia": "Burgos",
+    "municipio": "Condado de Treviño",
+    "lat": 42.7349,
+    "lon": -2.74691
+  },
+  "09110": {
+    "provincia": "Burgos",
+    "municipio": "Contreras",
+    "lat": 42.02149,
+    "lon": -3.410147
+  },
+  "09112": {
+    "provincia": "Burgos",
+    "municipio": "Coruña del Conde",
+    "lat": 41.76587,
+    "lon": -3.391761
+  },
+  "09113": {
+    "provincia": "Burgos",
+    "municipio": "Covarrubias",
+    "lat": 42.05919,
+    "lon": -3.520237
+  },
+  "09114": {
+    "provincia": "Burgos",
+    "municipio": "Cubillo del Campo",
+    "lat": 42.16857,
+    "lon": -3.610348
+  },
+  "09115": {
+    "provincia": "Burgos",
+    "municipio": "Cubo de Bureba",
+    "lat": 42.64042,
+    "lon": -3.206735
+  },
+  "09117": {
+    "provincia": "Burgos",
+    "municipio": "Cueva de Roa (La)",
+    "lat": 41.66653,
+    "lon": -3.939688
+  },
+  "09119": {
+    "provincia": "Burgos",
+    "municipio": "Cuevas de San Clemente",
+    "lat": 42.12992,
+    "lon": -3.568581
+  },
+  "09120": {
+    "provincia": "Burgos",
+    "municipio": "Encío",
+    "lat": 42.66777,
+    "lon": -3.084554
+  },
+  "09122": {
+    "provincia": "Burgos",
+    "municipio": "Espinosa de Cervera",
+    "lat": 41.89632,
+    "lon": -3.468393
+  },
+  "09123": {
+    "provincia": "Burgos",
+    "municipio": "Espinosa del Camino",
+    "lat": 42.40644,
+    "lon": -3.281149
+  },
+  "09124": {
+    "provincia": "Burgos",
+    "municipio": "Espinosa de los Monteros",
+    "lat": 43.07687,
+    "lon": -3.552301
+  },
+  "09125": {
+    "provincia": "Burgos",
+    "municipio": "Estépar",
+    "lat": 42.2767,
+    "lon": -3.89849
+  },
+  "09127": {
+    "provincia": "Burgos",
+    "municipio": "Fontioso",
+    "lat": 41.94261,
+    "lon": -3.739049
+  },
+  "09128": {
+    "provincia": "Burgos",
+    "municipio": "Frandovínez",
+    "lat": 42.30937,
+    "lon": -3.838241
+  },
+  "09129": {
+    "provincia": "Burgos",
+    "municipio": "Fresneda de la Sierra Tirón",
+    "lat": 42.31503,
+    "lon": -3.13507
+  },
+  "09130": {
+    "provincia": "Burgos",
+    "municipio": "Fresneña",
+    "lat": 42.41425,
+    "lon": -3.134803
+  },
+  "09131": {
+    "provincia": "Burgos",
+    "municipio": "Fresnillo de las Dueñas",
+    "lat": 41.64692,
+    "lon": -3.644559
+  },
+  "09132": {
+    "provincia": "Burgos",
+    "municipio": "Fresno de Río Tirón",
+    "lat": 42.4602,
+    "lon": -3.17496
+  },
+  "09133": {
+    "provincia": "Burgos",
+    "municipio": "Fresno de Rodilla",
+    "lat": 42.42011,
+    "lon": -3.485178
+  },
+  "09134": {
+    "provincia": "Burgos",
+    "municipio": "Frías",
+    "lat": 42.76148,
+    "lon": -3.294353
+  },
+  "09135": {
+    "provincia": "Burgos",
+    "municipio": "Fuentebureba",
+    "lat": 42.63403,
+    "lon": -3.234902
+  },
+  "09136": {
+    "provincia": "Burgos",
+    "municipio": "Fuentecén",
+    "lat": 41.62859,
+    "lon": -3.869621
+  },
+  "09137": {
+    "provincia": "Burgos",
+    "municipio": "Fuentelcésped",
+    "lat": 41.59122,
+    "lon": -3.640737
+  },
+  "09138": {
+    "provincia": "Burgos",
+    "municipio": "Fuentelisendo",
+    "lat": 41.6224,
+    "lon": -3.901975
+  },
+  "09139": {
+    "provincia": "Burgos",
+    "municipio": "Fuentemolinos",
+    "lat": 41.60551,
+    "lon": -3.849833
+  },
+  "09140": {
+    "provincia": "Burgos",
+    "municipio": "Fuentenebro",
+    "lat": 41.52533,
+    "lon": -3.75369
+  },
+  "09141": {
+    "provincia": "Burgos",
+    "municipio": "Fuentespina",
+    "lat": 41.63168,
+    "lon": -3.686191
+  },
+  "09143": {
+    "provincia": "Burgos",
+    "municipio": "Galbarros",
+    "lat": 42.5279,
+    "lon": -3.437926
+  },
+  "09144": {
+    "provincia": "Burgos",
+    "municipio": "Gallega (La)",
+    "lat": 41.89865,
+    "lon": -3.26404
+  },
+  "09148": {
+    "provincia": "Burgos",
+    "municipio": "Grijalba",
+    "lat": 42.42995,
+    "lon": -4.118997
+  },
+  "09149": {
+    "provincia": "Burgos",
+    "municipio": "Grisaleña",
+    "lat": 42.59092,
+    "lon": -3.26404
+  },
+  "09151": {
+    "provincia": "Burgos",
+    "municipio": "Gumiel de Izán",
+    "lat": 41.7734,
+    "lon": -3.688242
+  },
+  "09152": {
+    "provincia": "Burgos",
+    "municipio": "Gumiel de Mercado",
+    "lat": 41.75608,
+    "lon": -3.802108
+  },
+  "09154": {
+    "provincia": "Burgos",
+    "municipio": "Hacinas",
+    "lat": 41.9852,
+    "lon": -3.28705
+  },
+  "09155": {
+    "provincia": "Burgos",
+    "municipio": "Haza",
+    "lat": 41.62142,
+    "lon": -3.829452
+  },
+  "09159": {
+    "provincia": "Burgos",
+    "municipio": "Hontanas",
+    "lat": 42.31303,
+    "lon": -4.045938
+  },
+  "09160": {
+    "provincia": "Burgos",
+    "municipio": "Hontangas",
+    "lat": 41.58269,
+    "lon": -3.796304
+  },
+  "09162": {
+    "provincia": "Burgos",
+    "municipio": "Hontoria de la Cantera",
+    "lat": 42.18913,
+    "lon": -3.643586
+  },
+  "09163": {
+    "provincia": "Burgos",
+    "municipio": "Hontoria del Pinar",
+    "lat": 41.8486,
+    "lon": -3.162302
+  },
+  "09164": {
+    "provincia": "Burgos",
+    "municipio": "Hontoria de Valdearados",
+    "lat": 41.74445,
+    "lon": -3.520228
+  },
+  "09166": {
+    "provincia": "Burgos",
+    "municipio": "Hormazas (Las)",
+    "lat": 42.515,
+    "lon": -3.896111
+  },
+  "09167": {
+    "provincia": "Burgos",
+    "municipio": "Hornillos del Camino",
+    "lat": 42.33831,
+    "lon": -3.925357
+  },
+  "09168": {
+    "provincia": "Burgos",
+    "municipio": "Horra (La)",
+    "lat": 41.74088,
+    "lon": -3.875266
+  },
+  "09169": {
+    "provincia": "Burgos",
+    "municipio": "Hortigüela",
+    "lat": 42.0681,
+    "lon": -3.425503
+  },
+  "09170": {
+    "provincia": "Burgos",
+    "municipio": "Hoyales de Roa",
+    "lat": 41.65891,
+    "lon": -3.862995
+  },
+  "09172": {
+    "provincia": "Burgos",
+    "municipio": "Huérmeces",
+    "lat": 42.52169,
+    "lon": -3.77164
+  },
+  "09173": {
+    "provincia": "Burgos",
+    "municipio": "Huerta de Arriba",
+    "lat": 42.11634,
+    "lon": -3.082139
+  },
+  "09174": {
+    "provincia": "Burgos",
+    "municipio": "Huerta de Rey",
+    "lat": 41.83988,
+    "lon": -3.349127
+  },
+  "09175": {
+    "provincia": "Burgos",
+    "municipio": "Humada",
+    "lat": 42.66822,
+    "lon": -4.083444
+  },
+  "09176": {
+    "provincia": "Burgos",
+    "municipio": "Hurones",
+    "lat": 42.40615,
+    "lon": -3.613922
+  },
+  "09177": {
+    "provincia": "Burgos",
+    "municipio": "Ibeas de Juarros",
+    "lat": 42.33124,
+    "lon": -3.535495
+  },
+  "09178": {
+    "provincia": "Burgos",
+    "municipio": "Ibrillos",
+    "lat": 42.45407,
+    "lon": -3.0831
+  },
+  "09179": {
+    "provincia": "Burgos",
+    "municipio": "Iglesiarrubia",
+    "lat": 41.97432,
+    "lon": -3.846759
+  },
+  "09180": {
+    "provincia": "Burgos",
+    "municipio": "Iglesias",
+    "lat": 42.29795,
+    "lon": -3.990041
+  },
+  "09181": {
+    "provincia": "Burgos",
+    "municipio": "Isar",
+    "lat": 42.36185,
+    "lon": -3.930288
+  },
+  "09182": {
+    "provincia": "Burgos",
+    "municipio": "Itero del Castillo",
+    "lat": 42.28941,
+    "lon": -4.244414
+  },
+  "09183": {
+    "provincia": "Burgos",
+    "municipio": "Jaramillo de la Fuente",
+    "lat": 42.11487,
+    "lon": -3.312734
+  },
+  "09184": {
+    "provincia": "Burgos",
+    "municipio": "Jaramillo Quemado",
+    "lat": 42.08483,
+    "lon": -3.360913
+  },
+  "09189": {
+    "provincia": "Burgos",
+    "municipio": "Junta de Traslaloma",
+    "lat": 43.03695,
+    "lon": -3.389445
+  },
+  "09190": {
+    "provincia": "Burgos",
+    "municipio": "Junta de Villalba de Losa",
+    "lat": 42.93537,
+    "lon": -3.087131
+  },
+  "09191": {
+    "provincia": "Burgos",
+    "municipio": "Jurisdicción de Lara",
+    "lat": 42.13472,
+    "lon": -3.449722
+  },
+  "09192": {
+    "provincia": "Burgos",
+    "municipio": "Jurisdicción de San Zadornil",
+    "lat": 42.84143,
+    "lon": -3.157743
+  },
+  "09194": {
+    "provincia": "Burgos",
+    "municipio": "Lerma",
+    "lat": 42.02583,
+    "lon": -3.75596
+  },
+  "09195": {
+    "provincia": "Burgos",
+    "municipio": "Llano de Bureba",
+    "lat": 42.62436,
+    "lon": -3.459093
+  },
+  "09196": {
+    "provincia": "Burgos",
+    "municipio": "Madrigal del Monte",
+    "lat": 42.14449,
+    "lon": -3.675512
+  },
+  "09197": {
+    "provincia": "Burgos",
+    "municipio": "Madrigalejo del Monte",
+    "lat": 42.12458,
+    "lon": -3.725459
+  },
+  "09198": {
+    "provincia": "Burgos",
+    "municipio": "Mahamud",
+    "lat": 42.11988,
+    "lon": -3.94084
+  },
+  "09199": {
+    "provincia": "Burgos",
+    "municipio": "Mambrilla de Castrejón",
+    "lat": 41.66708,
+    "lon": -3.984727
+  },
+  "09200": {
+    "provincia": "Burgos",
+    "municipio": "Mambrillas de Lara",
+    "lat": 42.09437,
+    "lon": -3.461727
+  },
+  "09201": {
+    "provincia": "Burgos",
+    "municipio": "Mamolar",
+    "lat": 41.92689,
+    "lon": -3.361871
+  },
+  "09202": {
+    "provincia": "Burgos",
+    "municipio": "Manciles",
+    "lat": 42.4558,
+    "lon": -3.944278
+  },
+  "09206": {
+    "provincia": "Burgos",
+    "municipio": "Mazuela",
+    "lat": 42.20672,
+    "lon": -3.918213
+  },
+  "09208": {
+    "provincia": "Burgos",
+    "municipio": "Mecerreyes",
+    "lat": 42.0954,
+    "lon": -3.573741
+  },
+  "09209": {
+    "provincia": "Burgos",
+    "municipio": "Medina de Pomar",
+    "lat": 42.92837,
+    "lon": -3.487223
+  },
+  "09211": {
+    "provincia": "Burgos",
+    "municipio": "Melgar de Fernamental",
+    "lat": 42.40352,
+    "lon": -4.244519
+  },
+  "09213": {
+    "provincia": "Burgos",
+    "municipio": "Merindad de Cuesta-Urria",
+    "lat": 42.9,
+    "lon": -3.391667
+  },
+  "09214": {
+    "provincia": "Burgos",
+    "municipio": "Merindad de Montija",
+    "lat": 43.09207,
+    "lon": -3.43402
+  },
+  "09215": {
+    "provincia": "Burgos",
+    "municipio": "Merindad de Sotoscueva",
+    "lat": 43.05877,
+    "lon": -3.642048
+  },
+  "09216": {
+    "provincia": "Burgos",
+    "municipio": "Merindad de Valdeporres",
+    "lat": 43.02056,
+    "lon": -3.768611
+  },
+  "09217": {
+    "provincia": "Burgos",
+    "municipio": "Merindad de Valdivielso",
+    "lat": 42.82,
+    "lon": -3.536
+  },
+  "09218": {
+    "provincia": "Burgos",
+    "municipio": "Milagros",
+    "lat": 41.57555,
+    "lon": -3.699167
+  },
+  "09219": {
+    "provincia": "Burgos",
+    "municipio": "Miranda de Ebro",
+    "lat": 42.68734,
+    "lon": -2.947593
+  },
+  "09220": {
+    "provincia": "Burgos",
+    "municipio": "Miraveche",
+    "lat": 42.67471,
+    "lon": -3.19961
+  },
+  "09221": {
+    "provincia": "Burgos",
+    "municipio": "Modúbar de la Emparedada",
+    "lat": 42.26012,
+    "lon": -3.659911
+  },
+  "09223": {
+    "provincia": "Burgos",
+    "municipio": "Monasterio de la Sierra",
+    "lat": 42.05131,
+    "lon": -3.193589
+  },
+  "09224": {
+    "provincia": "Burgos",
+    "municipio": "Monasterio de Rodilla",
+    "lat": 42.45771,
+    "lon": -3.468888
+  },
+  "09225": {
+    "provincia": "Burgos",
+    "municipio": "Moncalvillo",
+    "lat": 41.9552,
+    "lon": -3.199341
+  },
+  "09226": {
+    "provincia": "Burgos",
+    "municipio": "Monterrubio de la Demanda",
+    "lat": 42.1481,
+    "lon": -3.112634
+  },
+  "09227": {
+    "provincia": "Burgos",
+    "municipio": "Montorio",
+    "lat": 42.58467,
+    "lon": -3.776581
+  },
+  "09228": {
+    "provincia": "Burgos",
+    "municipio": "Moradillo de Roa",
+    "lat": 41.55196,
+    "lon": -3.791871
+  },
+  "09229": {
+    "provincia": "Burgos",
+    "municipio": "Nava de Roa",
+    "lat": 41.61383,
+    "lon": -3.965231
+  },
+  "09230": {
+    "provincia": "Burgos",
+    "municipio": "Navas de Bureba",
+    "lat": 42.68237,
+    "lon": -3.32677
+  },
+  "09231": {
+    "provincia": "Burgos",
+    "municipio": "Nebreda",
+    "lat": 41.96859,
+    "lon": -3.63392
+  },
+  "09232": {
+    "provincia": "Burgos",
+    "municipio": "Neila",
+    "lat": 42.05984,
+    "lon": -2.997184
+  },
+  "09235": {
+    "provincia": "Burgos",
+    "municipio": "Olmedillo de Roa",
+    "lat": 41.78319,
+    "lon": -3.934045
+  },
+  "09236": {
+    "provincia": "Burgos",
+    "municipio": "Olmillos de Muñó",
+    "lat": 42.20261,
+    "lon": -3.940343
+  },
+  "09238": {
+    "provincia": "Burgos",
+    "municipio": "Oña",
+    "lat": 42.73478,
+    "lon": -3.414072
+  },
+  "09239": {
+    "provincia": "Burgos",
+    "municipio": "Oquillas",
+    "lat": 41.8317,
+    "lon": -3.703652
+  },
+  "09241": {
+    "provincia": "Burgos",
+    "municipio": "Orbaneja Riopico",
+    "lat": 42.36023,
+    "lon": -3.583582
+  },
+  "09242": {
+    "provincia": "Burgos",
+    "municipio": "Padilla de Abajo",
+    "lat": 42.40781,
+    "lon": -4.176731
+  },
+  "09243": {
+    "provincia": "Burgos",
+    "municipio": "Padilla de Arriba",
+    "lat": 42.43821,
+    "lon": -4.194777
+  },
+  "09244": {
+    "provincia": "Burgos",
+    "municipio": "Padrones de Bureba",
+    "lat": 42.7049,
+    "lon": -3.532114
+  },
+  "09246": {
+    "provincia": "Burgos",
+    "municipio": "Palacios de la Sierra",
+    "lat": 41.96359,
+    "lon": -3.126263
+  },
+  "09247": {
+    "provincia": "Burgos",
+    "municipio": "Palacios de Riopisuerga",
+    "lat": 42.34376,
+    "lon": -4.256989
+  },
+  "09248": {
+    "provincia": "Burgos",
+    "municipio": "Palazuelos de la Sierra",
+    "lat": 42.21181,
+    "lon": -3.459925
+  },
+  "09249": {
+    "provincia": "Burgos",
+    "municipio": "Palazuelos de Muñó",
+    "lat": 42.19647,
+    "lon": -3.988374
+  },
+  "09250": {
+    "provincia": "Burgos",
+    "municipio": "Pampliega",
+    "lat": 42.20591,
+    "lon": -3.987587
+  },
+  "09251": {
+    "provincia": "Burgos",
+    "municipio": "Pancorbo",
+    "lat": 42.63524,
+    "lon": -3.110586
+  },
+  "09253": {
+    "provincia": "Burgos",
+    "municipio": "Pardilla",
+    "lat": 41.55063,
+    "lon": -3.710233
+  },
+  "09255": {
+    "provincia": "Burgos",
+    "municipio": "Partido de la Sierra en Tobalina",
+    "lat": 42.71667,
+    "lon": -3.233333
+  },
+  "09256": {
+    "provincia": "Burgos",
+    "municipio": "Pedrosa de Duero",
+    "lat": 41.71184,
+    "lon": -3.987098
+  },
+  "09257": {
+    "provincia": "Burgos",
+    "municipio": "Pedrosa del Páramo",
+    "lat": 42.44224,
+    "lon": -3.972769
+  },
+  "09258": {
+    "provincia": "Burgos",
+    "municipio": "Pedrosa del Príncipe",
+    "lat": 42.24924,
+    "lon": -4.198915
+  },
+  "09259": {
+    "provincia": "Burgos",
+    "municipio": "Pedrosa de Río Úrbel",
+    "lat": 42.40971,
+    "lon": -3.821324
+  },
+  "09261": {
+    "provincia": "Burgos",
+    "municipio": "Peñaranda de Duero",
+    "lat": 41.68876,
+    "lon": -3.480297
+  },
+  "09262": {
+    "provincia": "Burgos",
+    "municipio": "Peral de Arlanza",
+    "lat": 42.07603,
+    "lon": -4.077512
+  },
+  "09265": {
+    "provincia": "Burgos",
+    "municipio": "Piérnigas",
+    "lat": 42.59008,
+    "lon": -3.412804
+  },
+  "09266": {
+    "provincia": "Burgos",
+    "municipio": "Pineda de la Sierra",
+    "lat": 42.21596,
+    "lon": -3.29737
+  },
+  "09267": {
+    "provincia": "Burgos",
+    "municipio": "Pineda Trasmonte",
+    "lat": 41.90881,
+    "lon": -3.695628
+  },
+  "09268": {
+    "provincia": "Burgos",
+    "municipio": "Pinilla de los Barruecos",
+    "lat": 41.91891,
+    "lon": -3.305166
+  },
+  "09269": {
+    "provincia": "Burgos",
+    "municipio": "Pinilla de los Moros",
+    "lat": 42.06802,
+    "lon": -3.327312
+  },
+  "09270": {
+    "provincia": "Burgos",
+    "municipio": "Pinilla Trasmonte",
+    "lat": 41.87348,
+    "lon": -3.620033
+  },
+  "09272": {
+    "provincia": "Burgos",
+    "municipio": "Poza de la Sal",
+    "lat": 42.66542,
+    "lon": -3.501162
+  },
+  "09273": {
+    "provincia": "Burgos",
+    "municipio": "Prádanos de Bureba",
+    "lat": 42.5023,
+    "lon": -3.347642
+  },
+  "09274": {
+    "provincia": "Burgos",
+    "municipio": "Pradoluengo",
+    "lat": 42.3237,
+    "lon": -3.200787
+  },
+  "09275": {
+    "provincia": "Burgos",
+    "municipio": "Presencio",
+    "lat": 42.18675,
+    "lon": -3.901966
+  },
+  "09276": {
+    "provincia": "Burgos",
+    "municipio": "Puebla de Arganzón (La)",
+    "lat": 42.76628,
+    "lon": -2.831537
+  },
+  "09277": {
+    "provincia": "Burgos",
+    "municipio": "Puentedura",
+    "lat": 42.04167,
+    "lon": -3.582952
+  },
+  "09279": {
+    "provincia": "Burgos",
+    "municipio": "Quemada",
+    "lat": 41.70045,
+    "lon": -3.574928
+  },
+  "09280": {
+    "provincia": "Burgos",
+    "municipio": "Quintanabureba",
+    "lat": 42.58692,
+    "lon": -3.366666
+  },
+  "09281": {
+    "provincia": "Burgos",
+    "municipio": "Quintana del Pidio",
+    "lat": 41.7596,
+    "lon": -3.751569
+  },
+  "09283": {
+    "provincia": "Burgos",
+    "municipio": "Quintanaélez",
+    "lat": 42.6687,
+    "lon": -3.299189
+  },
+  "09287": {
+    "provincia": "Burgos",
+    "municipio": "Quintanaortuño",
+    "lat": 42.44994,
+    "lon": -3.683778
+  },
+  "09288": {
+    "provincia": "Burgos",
+    "municipio": "Quintanapalla",
+    "lat": 42.40835,
+    "lon": -3.534245
+  },
+  "09289": {
+    "provincia": "Burgos",
+    "municipio": "Quintanar de la Sierra",
+    "lat": 41.98133,
+    "lon": -3.040702
+  },
+  "09292": {
+    "provincia": "Burgos",
+    "municipio": "Quintanavides",
+    "lat": 42.48142,
+    "lon": -3.424978
+  },
+  "09294": {
+    "provincia": "Burgos",
+    "municipio": "Quintanilla de la Mata",
+    "lat": 41.98862,
+    "lon": -3.76779
+  },
+  "09295": {
+    "provincia": "Burgos",
+    "municipio": "Quintanilla del Coco",
+    "lat": 41.97923,
+    "lon": -3.516723
+  },
+  "09297": {
+    "provincia": "Burgos",
+    "municipio": "Quintanillas (Las)",
+    "lat": 42.37259,
+    "lon": -3.843971
+  },
+  "09298": {
+    "provincia": "Burgos",
+    "municipio": "Quintanilla San García",
+    "lat": 42.54919,
+    "lon": -3.193922
+  },
+  "09301": {
+    "provincia": "Burgos",
+    "municipio": "Quintanilla Vivar",
+    "lat": 42.41479,
+    "lon": -3.690509
+  },
+  "09302": {
+    "provincia": "Burgos",
+    "municipio": "Rabanera del Pinar",
+    "lat": 41.89267,
+    "lon": -3.19425
+  },
+  "09303": {
+    "provincia": "Burgos",
+    "municipio": "Rábanos",
+    "lat": 42.3198,
+    "lon": -3.270114
+  },
+  "09304": {
+    "provincia": "Burgos",
+    "municipio": "Rabé de las Calzadas",
+    "lat": 42.34017,
+    "lon": -3.83422
+  },
+  "09306": {
+    "provincia": "Burgos",
+    "municipio": "Rebolledo de la Torre",
+    "lat": 42.68719,
+    "lon": -4.227346
+  },
+  "09307": {
+    "provincia": "Burgos",
+    "municipio": "Redecilla del Camino",
+    "lat": 42.43816,
+    "lon": -3.065058
+  },
+  "09308": {
+    "provincia": "Burgos",
+    "municipio": "Redecilla del Campo",
+    "lat": 42.46679,
+    "lon": -3.115167
+  },
+  "09309": {
+    "provincia": "Burgos",
+    "municipio": "Regumiel de la Sierra",
+    "lat": 41.95593,
+    "lon": -2.987816
+  },
+  "09310": {
+    "provincia": "Burgos",
+    "municipio": "Reinoso",
+    "lat": 42.51133,
+    "lon": -3.381955
+  },
+  "09311": {
+    "provincia": "Burgos",
+    "municipio": "Retuerta",
+    "lat": 42.02995,
+    "lon": -3.507748
+  },
+  "09312": {
+    "provincia": "Burgos",
+    "municipio": "Revilla y Ahedo (La)",
+    "lat": 41.99827,
+    "lon": -3.351927
+  },
+  "09314": {
+    "provincia": "Burgos",
+    "municipio": "Revilla del Campo",
+    "lat": 42.21154,
+    "lon": -3.5374
+  },
+  "09315": {
+    "provincia": "Burgos",
+    "municipio": "Revillarruz",
+    "lat": 42.23075,
+    "lon": -3.6538
+  },
+  "09316": {
+    "provincia": "Burgos",
+    "municipio": "Revilla Vallejera",
+    "lat": 42.14722,
+    "lon": -4.134238
+  },
+  "09317": {
+    "provincia": "Burgos",
+    "municipio": "Rezmondo",
+    "lat": 42.51596,
+    "lon": -4.238618
+  },
+  "09318": {
+    "provincia": "Burgos",
+    "municipio": "Riocavado de la Sierra",
+    "lat": 42.15218,
+    "lon": -3.198172
+  },
+  "09321": {
+    "provincia": "Burgos",
+    "municipio": "Roa",
+    "lat": 41.69711,
+    "lon": -3.928005
+  },
+  "09323": {
+    "provincia": "Burgos",
+    "municipio": "Rojas",
+    "lat": 42.57769,
+    "lon": -3.4409
+  },
+  "09325": {
+    "provincia": "Burgos",
+    "municipio": "Royuela de Río Franco",
+    "lat": 41.99681,
+    "lon": -3.956869
+  },
+  "09326": {
+    "provincia": "Burgos",
+    "municipio": "Rubena",
+    "lat": 42.38781,
+    "lon": -3.574296
+  },
+  "09327": {
+    "provincia": "Burgos",
+    "municipio": "Rublacedo de Abajo",
+    "lat": 42.55323,
+    "lon": -3.502227
+  },
+  "09328": {
+    "provincia": "Burgos",
+    "municipio": "Rucandio",
+    "lat": 42.75172,
+    "lon": -3.54248
+  },
+  "09329": {
+    "provincia": "Burgos",
+    "municipio": "Salas de Bureba",
+    "lat": 42.69194,
+    "lon": -3.473988
+  },
+  "09330": {
+    "provincia": "Burgos",
+    "municipio": "Salas de los Infantes",
+    "lat": 42.02327,
+    "lon": -3.286438
+  },
+  "09332": {
+    "provincia": "Burgos",
+    "municipio": "Saldaña de Burgos",
+    "lat": 42.25925,
+    "lon": -3.697733
+  },
+  "09334": {
+    "provincia": "Burgos",
+    "municipio": "Salinillas de Bureba",
+    "lat": 42.55315,
+    "lon": -3.386741
+  },
+  "09335": {
+    "provincia": "Burgos",
+    "municipio": "San Adrián de Juarros",
+    "lat": 42.2742,
+    "lon": -3.475125
+  },
+  "09337": {
+    "provincia": "Burgos",
+    "municipio": "San Juan del Monte",
+    "lat": 41.6844,
+    "lon": -3.521135
+  },
+  "09338": {
+    "provincia": "Burgos",
+    "municipio": "San Mamés de Burgos",
+    "lat": 42.33744,
+    "lon": -3.794107
+  },
+  "09339": {
+    "provincia": "Burgos",
+    "municipio": "San Martín de Rubiales",
+    "lat": 41.64256,
+    "lon": -3.993453
+  },
+  "09340": {
+    "provincia": "Burgos",
+    "municipio": "San Millán de Lara",
+    "lat": 42.13653,
+    "lon": -3.345795
+  },
+  "09343": {
+    "provincia": "Burgos",
+    "municipio": "Santa Cecilia",
+    "lat": 42.05219,
+    "lon": -3.803176
+  },
+  "09345": {
+    "provincia": "Burgos",
+    "municipio": "Santa Cruz de la Salceda",
+    "lat": 41.59478,
+    "lon": -3.594756
+  },
+  "09346": {
+    "provincia": "Burgos",
+    "municipio": "Santa Cruz del Valle Urbión",
+    "lat": 42.30286,
+    "lon": -3.22192
+  },
+  "09347": {
+    "provincia": "Burgos",
+    "municipio": "Santa Gadea del Cid",
+    "lat": 42.71543,
+    "lon": -3.059203
+  },
+  "09348": {
+    "provincia": "Burgos",
+    "municipio": "Santa Inés",
+    "lat": 42.03945,
+    "lon": -3.702686
+  },
+  "09350": {
+    "provincia": "Burgos",
+    "municipio": "Santa María del Campo",
+    "lat": 42.13218,
+    "lon": -3.974421
+  },
+  "09351": {
+    "provincia": "Burgos",
+    "municipio": "Santa María del Invierno",
+    "lat": 42.44278,
+    "lon": -3.437732
+  },
+  "09352": {
+    "provincia": "Burgos",
+    "municipio": "Santa María del Mercadillo",
+    "lat": 41.85995,
+    "lon": -3.559022
+  },
+  "09353": {
+    "provincia": "Burgos",
+    "municipio": "Santa María Ribarredonda",
+    "lat": 42.6401,
+    "lon": -3.180049
+  },
+  "09354": {
+    "provincia": "Burgos",
+    "municipio": "Santa Olalla de Bureba",
+    "lat": 42.47622,
+    "lon": -3.440882
+  },
+  "09355": {
+    "provincia": "Burgos",
+    "municipio": "Santibáñez de Esgueva",
+    "lat": 41.83353,
+    "lon": -3.75887
+  },
+  "09356": {
+    "provincia": "Burgos",
+    "municipio": "Santibáñez del Val",
+    "lat": 41.97408,
+    "lon": -3.480564
+  },
+  "09358": {
+    "provincia": "Burgos",
+    "municipio": "Santo Domingo de Silos",
+    "lat": 41.96238,
+    "lon": -3.419734
+  },
+  "09360": {
+    "provincia": "Burgos",
+    "municipio": "San Vicente del Valle",
+    "lat": 42.3372,
+    "lon": -3.162195
+  },
+  "09361": {
+    "provincia": "Burgos",
+    "municipio": "Sargentes de la Lora",
+    "lat": 42.76923,
+    "lon": -3.872826
+  },
+  "09362": {
+    "provincia": "Burgos",
+    "municipio": "Sarracín",
+    "lat": 42.25746,
+    "lon": -3.685354
+  },
+  "09363": {
+    "provincia": "Burgos",
+    "municipio": "Sasamón",
+    "lat": 42.41784,
+    "lon": -4.043491
+  },
+  "09365": {
+    "provincia": "Burgos",
+    "municipio": "Sequera de Haza (La)",
+    "lat": 41.56364,
+    "lon": -3.817178
+  },
+  "09366": {
+    "provincia": "Burgos",
+    "municipio": "Solarana",
+    "lat": 41.97002,
+    "lon": -3.660142
+  },
+  "09368": {
+    "provincia": "Burgos",
+    "municipio": "Sordillos",
+    "lat": 42.46181,
+    "lon": -4.107079
+  },
+  "09369": {
+    "provincia": "Burgos",
+    "municipio": "Sotillo de la Ribera",
+    "lat": 41.77686,
+    "lon": -3.826122
+  },
+  "09372": {
+    "provincia": "Burgos",
+    "municipio": "Sotragero",
+    "lat": 42.40995,
+    "lon": -3.713181
+  },
+  "09373": {
+    "provincia": "Burgos",
+    "municipio": "Sotresgudo",
+    "lat": 42.57833,
+    "lon": -4.177177
+  },
+  "09374": {
+    "provincia": "Burgos",
+    "municipio": "Susinos del Páramo",
+    "lat": 42.47124,
+    "lon": -3.925125
+  },
+  "09375": {
+    "provincia": "Burgos",
+    "municipio": "Tamarón",
+    "lat": 42.27272,
+    "lon": -3.990991
+  },
+  "09377": {
+    "provincia": "Burgos",
+    "municipio": "Tardajos",
+    "lat": 42.34735,
+    "lon": -3.819411
+  },
+  "09378": {
+    "provincia": "Burgos",
+    "municipio": "Tejada",
+    "lat": 41.95241,
+    "lon": -3.536148
+  },
+  "09380": {
+    "provincia": "Burgos",
+    "municipio": "Terradillos de Esgueva",
+    "lat": 41.81919,
+    "lon": -3.842888
+  },
+  "09381": {
+    "provincia": "Burgos",
+    "municipio": "Tinieblas de la Sierra",
+    "lat": 42.17256,
+    "lon": -3.363317
+  },
+  "09382": {
+    "provincia": "Burgos",
+    "municipio": "Tobar",
+    "lat": 42.48387,
+    "lon": -3.938603
+  },
+  "09384": {
+    "provincia": "Burgos",
+    "municipio": "Tordómar",
+    "lat": 42.04587,
+    "lon": -3.864727
+  },
+  "09386": {
+    "provincia": "Burgos",
+    "municipio": "Torrecilla del Monte",
+    "lat": 42.09386,
+    "lon": -3.694269
+  },
+  "09387": {
+    "provincia": "Burgos",
+    "municipio": "Torregalindo",
+    "lat": 41.58224,
+    "lon": -3.753572
+  },
+  "09388": {
+    "provincia": "Burgos",
+    "municipio": "Torrelara",
+    "lat": 42.16608,
+    "lon": -3.516533
+  },
+  "09389": {
+    "provincia": "Burgos",
+    "municipio": "Torrepadre",
+    "lat": 42.04362,
+    "lon": -3.936996
+  },
+  "09390": {
+    "provincia": "Burgos",
+    "municipio": "Torresandino",
+    "lat": 41.82946,
+    "lon": -3.910012
+  },
+  "09391": {
+    "provincia": "Burgos",
+    "municipio": "Tórtoles de Esgueva",
+    "lat": 41.81652,
+    "lon": -4.020943
+  },
+  "09392": {
+    "provincia": "Burgos",
+    "municipio": "Tosantos",
+    "lat": 42.41386,
+    "lon": -3.243547
+  },
+  "09394": {
+    "provincia": "Burgos",
+    "municipio": "Trespaderne",
+    "lat": 42.8019,
+    "lon": -3.391455
+  },
+  "09395": {
+    "provincia": "Burgos",
+    "municipio": "Tubilla del Agua",
+    "lat": 42.70913,
+    "lon": -3.803644
+  },
+  "09396": {
+    "provincia": "Burgos",
+    "municipio": "Tubilla del Lago",
+    "lat": 41.80146,
+    "lon": -3.586656
+  },
+  "09398": {
+    "provincia": "Burgos",
+    "municipio": "Úrbel del Castillo",
+    "lat": 42.62002,
+    "lon": -3.843711
+  },
+  "09400": {
+    "provincia": "Burgos",
+    "municipio": "Vadocondes",
+    "lat": 41.63945,
+    "lon": -3.573707
+  },
+  "09403": {
+    "provincia": "Burgos",
+    "municipio": "Valdeande",
+    "lat": 41.83434,
+    "lon": -3.527793
+  },
+  "09405": {
+    "provincia": "Burgos",
+    "municipio": "Valdezate",
+    "lat": 41.60155,
+    "lon": -3.930578
+  },
+  "09406": {
+    "provincia": "Burgos",
+    "municipio": "Valdorros",
+    "lat": 42.17222,
+    "lon": -3.708914
+  },
+  "09407": {
+    "provincia": "Burgos",
+    "municipio": "Valmala",
+    "lat": 42.30535,
+    "lon": -3.25509
+  },
+  "09408": {
+    "provincia": "Burgos",
+    "municipio": "Vallarta de Bureba",
+    "lat": 42.58826,
+    "lon": -3.204902
+  },
+  "09409": {
+    "provincia": "Burgos",
+    "municipio": "Valle de Manzanedo",
+    "lat": 42.89895,
+    "lon": -3.690677
+  },
+  "09410": {
+    "provincia": "Burgos",
+    "municipio": "Valle de Mena",
+    "lat": 43.1,
+    "lon": -3.283333
+  },
+  "09411": {
+    "provincia": "Burgos",
+    "municipio": "Valle de Oca",
+    "lat": 42.43333,
+    "lon": -3.316667
+  },
+  "09412": {
+    "provincia": "Burgos",
+    "municipio": "Valle de Tobalina",
+    "lat": 42.792,
+    "lon": -3.271
+  },
+  "09413": {
+    "provincia": "Burgos",
+    "municipio": "Valle de Valdebezana",
+    "lat": 42.97055,
+    "lon": -3.785833
+  },
+  "09414": {
+    "provincia": "Burgos",
+    "municipio": "Valle de Valdelaguna",
+    "lat": 42.11555,
+    "lon": -3.145555
+  },
+  "09415": {
+    "provincia": "Burgos",
+    "municipio": "Valle de Valdelucio",
+    "lat": 42.71822,
+    "lon": -4.092333
+  },
+  "09416": {
+    "provincia": "Burgos",
+    "municipio": "Valle de Zamanzas",
+    "lat": 42.85333,
+    "lon": -3.749722
+  },
+  "09417": {
+    "provincia": "Burgos",
+    "municipio": "Vallejera",
+    "lat": 42.18224,
+    "lon": -4.151447
+  },
+  "09418": {
+    "provincia": "Burgos",
+    "municipio": "Valles de Palenzuela",
+    "lat": 42.11949,
+    "lon": -4.076557
+  },
+  "09419": {
+    "provincia": "Burgos",
+    "municipio": "Valluércanes",
+    "lat": 42.57304,
+    "lon": -3.119017
+  },
+  "09421": {
+    "provincia": "Burgos",
+    "municipio": "Vid y Barrios (La)",
+    "lat": 41.62967,
+    "lon": -3.490485
+  },
+  "09422": {
+    "provincia": "Burgos",
+    "municipio": "Vid de Bureba (La)",
+    "lat": 42.63091,
+    "lon": -3.300676
+  },
+  "09423": {
+    "provincia": "Burgos",
+    "municipio": "Vileña",
+    "lat": 42.62206,
+    "lon": -3.323521
+  },
+  "09424": {
+    "provincia": "Burgos",
+    "municipio": "Viloria de Rioja",
+    "lat": 42.42577,
+    "lon": -3.100409
+  },
+  "09425": {
+    "provincia": "Burgos",
+    "municipio": "Vilviestre del Pinar",
+    "lat": 41.95218,
+    "lon": -3.078111
+  },
+  "09427": {
+    "provincia": "Burgos",
+    "municipio": "Villadiego",
+    "lat": 42.51575,
+    "lon": -4.010096
+  },
+  "09428": {
+    "provincia": "Burgos",
+    "municipio": "Villaescusa de Roa",
+    "lat": 41.72776,
+    "lon": -4.016985
+  },
+  "09429": {
+    "provincia": "Burgos",
+    "municipio": "Villaescusa la Sombría",
+    "lat": 42.41518,
+    "lon": -3.418952
+  },
+  "09430": {
+    "provincia": "Burgos",
+    "municipio": "Villaespasa",
+    "lat": 42.09895,
+    "lon": -3.402259
+  },
+  "09431": {
+    "provincia": "Burgos",
+    "municipio": "Villafranca Montes de Oca",
+    "lat": 42.38651,
+    "lon": -3.309347
+  },
+  "09432": {
+    "provincia": "Burgos",
+    "municipio": "Villafruela",
+    "lat": 41.91651,
+    "lon": -3.913288
+  },
+  "09433": {
+    "provincia": "Burgos",
+    "municipio": "Villagalijo",
+    "lat": 42.34863,
+    "lon": -3.191916
+  },
+  "09434": {
+    "provincia": "Burgos",
+    "municipio": "Villagonzalo Pedernales",
+    "lat": 42.30135,
+    "lon": -3.736424
+  },
+  "09437": {
+    "provincia": "Burgos",
+    "municipio": "Villahoz",
+    "lat": 42.07693,
+    "lon": -3.912524
+  },
+  "09438": {
+    "provincia": "Burgos",
+    "municipio": "Villalba de Duero",
+    "lat": 41.6824,
+    "lon": -3.745252
+  },
+  "09439": {
+    "provincia": "Burgos",
+    "municipio": "Villalbilla de Burgos",
+    "lat": 42.34708,
+    "lon": -3.779343
+  },
+  "09440": {
+    "provincia": "Burgos",
+    "municipio": "Villalbilla de Gumiel",
+    "lat": 41.80642,
+    "lon": -3.626274
+  },
+  "09441": {
+    "provincia": "Burgos",
+    "municipio": "Villaldemiro",
+    "lat": 42.2471,
+    "lon": -3.984738
+  },
+  "09442": {
+    "provincia": "Burgos",
+    "municipio": "Villalmanzo",
+    "lat": 42.04841,
+    "lon": -3.741645
+  },
+  "09443": {
+    "provincia": "Burgos",
+    "municipio": "Villamayor de los Montes",
+    "lat": 42.10576,
+    "lon": -3.766267
+  },
+  "09444": {
+    "provincia": "Burgos",
+    "municipio": "Villamayor de Treviño",
+    "lat": 42.4595,
+    "lon": -4.119967
+  },
+  "09445": {
+    "provincia": "Burgos",
+    "municipio": "Villambistia",
+    "lat": 42.40631,
+    "lon": -3.262168
+  },
+  "09446": {
+    "provincia": "Burgos",
+    "municipio": "Villamedianilla",
+    "lat": 42.16063,
+    "lon": -4.146362
+  },
+  "09447": {
+    "provincia": "Burgos",
+    "municipio": "Villamiel de la Sierra",
+    "lat": 42.19164,
+    "lon": -3.41759
+  },
+  "09448": {
+    "provincia": "Burgos",
+    "municipio": "Villangómez",
+    "lat": 42.17881,
+    "lon": -3.776208
+  },
+  "09449": {
+    "provincia": "Burgos",
+    "municipio": "Villanueva de Argaño",
+    "lat": 42.3799,
+    "lon": -3.93297
+  },
+  "09450": {
+    "provincia": "Burgos",
+    "municipio": "Villanueva de Carazo",
+    "lat": 41.98323,
+    "lon": -3.324481
+  },
+  "09451": {
+    "provincia": "Burgos",
+    "municipio": "Villanueva de Gumiel",
+    "lat": 41.73724,
+    "lon": -3.626348
+  },
+  "09454": {
+    "provincia": "Burgos",
+    "municipio": "Villanueva de Teba",
+    "lat": 42.64913,
+    "lon": -3.162595
+  },
+  "09455": {
+    "provincia": "Burgos",
+    "municipio": "Villaquirán de la Puebla",
+    "lat": 42.2832,
+    "lon": -4.101557
+  },
+  "09456": {
+    "provincia": "Burgos",
+    "municipio": "Villaquirán de los Infantes",
+    "lat": 42.22715,
+    "lon": -4.008459
+  },
+  "09458": {
+    "provincia": "Burgos",
+    "municipio": "Villariezo",
+    "lat": 42.26958,
+    "lon": -3.733035
+  },
+  "09460": {
+    "provincia": "Burgos",
+    "municipio": "Villasandino",
+    "lat": 42.37226,
+    "lon": -4.109077
+  },
+  "09463": {
+    "provincia": "Burgos",
+    "municipio": "Villasur de Herreros",
+    "lat": 42.30821,
+    "lon": -3.395027
+  },
+  "09464": {
+    "provincia": "Burgos",
+    "municipio": "Villatuelda",
+    "lat": 41.81512,
+    "lon": -3.882187
+  },
+  "09466": {
+    "provincia": "Burgos",
+    "municipio": "Villaverde del Monte",
+    "lat": 42.16069,
+    "lon": -3.814537
+  },
+  "09467": {
+    "provincia": "Burgos",
+    "municipio": "Villaverde-Mogina",
+    "lat": 42.1601,
+    "lon": -4.050792
+  },
+  "09471": {
+    "provincia": "Burgos",
+    "municipio": "Villayerno Morquillas",
+    "lat": 42.39547,
+    "lon": -3.639612
+  },
+  "09472": {
+    "provincia": "Burgos",
+    "municipio": "Villazopeque",
+    "lat": 42.19885,
+    "lon": -4.016426
+  },
+  "09473": {
+    "provincia": "Burgos",
+    "municipio": "Villegas",
+    "lat": 42.46752,
+    "lon": -4.017189
+  },
+  "09476": {
+    "provincia": "Burgos",
+    "municipio": "Villoruebo",
+    "lat": 42.16848,
+    "lon": -3.441567
+  },
+  "09478": {
+    "provincia": "Burgos",
+    "municipio": "Vizcaínos",
+    "lat": 42.10159,
+    "lon": -3.267122
+  },
+  "09480": {
+    "provincia": "Burgos",
+    "municipio": "Zael",
+    "lat": 42.10968,
+    "lon": -3.823925
+  },
+  "09482": {
+    "provincia": "Burgos",
+    "municipio": "Zarzosa de Río Pisuerga",
+    "lat": 42.53617,
+    "lon": -4.268831
+  },
+  "09483": {
+    "provincia": "Burgos",
+    "municipio": "Zazuar",
+    "lat": 41.69591,
+    "lon": -3.555112
+  },
+  "09485": {
+    "provincia": "Burgos",
+    "municipio": "Zuñeda",
+    "lat": 42.60449,
+    "lon": -3.226378
+  },
+  "09901": {
+    "provincia": "Burgos",
+    "municipio": "Quintanilla del Agua y Tordueles",
+    "lat": 42.0411,
+    "lon": -3.652041
+  },
+  "09902": {
+    "provincia": "Burgos",
+    "municipio": "Valle de Santibáñez",
+    "lat": 42.48272,
+    "lon": -3.822472
+  },
+  "09903": {
+    "provincia": "Burgos",
+    "municipio": "Villarcayo de Merindad de Castilla la Vieja",
+    "lat": 42.9383,
+    "lon": -3.572985
+  },
+  "09904": {
+    "provincia": "Burgos",
+    "municipio": "Valle de las Navas",
+    "lat": 42.45806,
+    "lon": -3.638333
+  },
+  "09905": {
+    "provincia": "Burgos",
+    "municipio": "Valle de Sedano",
+    "lat": 42.71544,
+    "lon": -3.749611
+  },
+  "09906": {
+    "provincia": "Burgos",
+    "municipio": "Merindad de Río Ubierna",
+    "lat": 42.61666,
+    "lon": -3.65
+  },
+  "09907": {
+    "provincia": "Burgos",
+    "municipio": "Alfoz de Quintanadueñas",
+    "lat": 42.38503,
+    "lon": -3.734942
+  },
+  "09908": {
+    "provincia": "Burgos",
+    "municipio": "Valle de Losa",
+    "lat": 42.98667,
+    "lon": -3.219167
+  }
+}
